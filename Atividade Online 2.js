@@ -1,7 +1,7 @@
 // Codificação de um sistema de cadastro de eventos
 
 var palestrantes = 5
-var participantes = 50
+var participantes = 60
 
 if(participantes + palestrantes < 100){
     console.log("O total de palestrantes e participantes é " + (participantes + palestrantes));
