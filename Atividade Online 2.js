@@ -13,7 +13,7 @@ if(participantes + palestrantes < 100){
         console.log("Data válida");
         console.log("Por favor, informe sua idade");
 
-        var idade = 17
+        var idade = 18
 
         if (idade >= 18){
             console.log("Idade válida");
